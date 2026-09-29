@@ -1,0 +1,6 @@
+{
+  "name": "Keuangan Mandiri",
+  "description": "Aplikasi pencatat keuangan mandiri untuk mencatat pemasukan, pengeluaran, ringkasan kas bulanan, dan ekspor data ke Excel/CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
